@@ -1,8 +1,8 @@
-# 📝 Exercícios
+## 📝 Exercícios
 
 ---
 
-## 🔹 Exercício 1 - Boas-vindas
+### 🔹 Exercício 1 - Boas-vindas
 **Descrição:** Crie um programa que solicite ao usuário os seguintes dados: nome, idade , altura e gênero.
 
 **Exemplo de:**
@@ -45,7 +45,7 @@
 
 ---
 
-## 🔹 Exercício 3 - Desconto Progressivo
+### 🔹 Exercício 3 - Desconto Progressivo
 **Descrição:** Crie um programa que peça ao usuário o valor de uma compra. Se o valor for maior que 100, aplique 10% de desconto. Caso contrário o desconto será de 5%.
 
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔹 Exercício 4 - Entrada no Evento
+### 🔹 Exercício 4 - Entrada no Evento
 **Descrição:** Peça ao usuário sua idade usando `prompt`. Com base na idade, defina uma variável `permitido` que será **true** se a idade for maior ou igual a 18, e **false** caso contrário. Mostre com `alert` uma mensagem do tipo: `"Entrada permitida"` ou `"Entrada negada"`.
 
 **Exemplo de:**
@@ -80,27 +80,7 @@
 
 ---
 
-## 🔹 Exercício 4 - Estoque Simples
-**Descrição:** Crie um programa que simule um estoque. Peça ao usuário: quantidade atual no estoque (number) e a quantidade que deseja remover (number). Mostre no console: se a quantidade for válida (não negativa), mostre `"Estoque atualizado: X"`. Caso contrário, mostre `"Operação inválida: quantidade insuficiente no estoque"`.
-
-
-**Exemplo de:**
-- Entrada:
-    ```css
-    Estoque: 30
-    Remover: 20
-    ```
-
-- Saída:
-    ```yaml
-    Estoque atualizado: 10
-    ```
-
-    ```
-    
----
-
-## 🔹 Exercício 5 - IMC
+### 🔹 Exercício 5 - IMC
 **Descrição:** Crie um programa em JavaScript que solicite ao usuário seu nome, peso (em kg) e altura (em metros). Em seguida, calcule o IMC (Índice de Massa Corporal) utilizando a fórmula:
 
 ```ini
@@ -137,4 +117,5 @@ Caso o usuário cancele, exiba a mensagem: `"Você saiu do programa."`
 
 
 ---
+
 
