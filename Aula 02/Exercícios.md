@@ -26,7 +26,26 @@
 
 ---
 
-## 🔹 Exercício 2 - Desconto Progressivo
+### 🔹 Exercício 2 - Cálculo de Média Final
+**Descrição:** Solicite o nome de um aluno e **três notas** reais. Calcule e mostre a **média aritmética** e uma mensagem com o nome do aluno.
+
+**Exemplo de:**
+- Entrada:
+    ```css
+    Nome: Juliana  
+    Nota 1: 7.5  
+    Nota 2: 6.0  
+    Nota 3: 8.5
+    ```
+ 
+* Saída:
+    ```css
+    A média final de Juliana foi 7.33
+    ```
+
+---
+
+## 🔹 Exercício 3 - Desconto Progressivo
 **Descrição:** Crie um programa que peça ao usuário o valor de uma compra. Se o valor for maior que 100, aplique 10% de desconto. Caso contrário o desconto será de 5%.
 
 
@@ -45,7 +64,7 @@
 
 ---
 
-## 🔹 Exercício 3 - Entrada no Evento
+## 🔹 Exercício 4 - Entrada no Evento
 **Descrição:** Peça ao usuário sua idade usando `prompt`. Com base na idade, defina uma variável `permitido` que será **true** se a idade for maior ou igual a 18, e **false** caso contrário. Mostre com `alert` uma mensagem do tipo: `"Entrada permitida"` ou `"Entrada negada"`.
 
 **Exemplo de:**
@@ -77,25 +96,11 @@
     Estoque atualizado: 10
     ```
 
+    ```
+    
 ---
 
-## 🔹 Exercício 5 - Exclusão de Conta
-**Descrição:** Use o `confirm()` para perguntar ao usuário se ele deseja excluir sua conta. Se confirmar, use `alert()` para mostrar: `"Conta excluída com sucesso"`. Caso contrário, mostre: `"Ação cancelada pelo usuário"`.
-
-**Exemplo de:**
-- Entrada:
-    ```css
-    (confirm): Clica em "OK"
-    ```
-
-- Saída:
-    ```yaml
-    Conta excluída com sucesso.
-    ```
-
----
-
-## 🔹 Exercício 6 - IMC
+## 🔹 Exercício 5 - IMC
 **Descrição:** Crie um programa em JavaScript que solicite ao usuário seu nome, peso (em kg) e altura (em metros). Em seguida, calcule o IMC (Índice de Massa Corporal) utilizando a fórmula:
 
 ```ini
@@ -132,3 +137,4 @@ Caso o usuário cancele, exiba a mensagem: `"Você saiu do programa."`
 
 
 ---
+
