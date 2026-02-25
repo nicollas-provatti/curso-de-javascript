@@ -3,7 +3,7 @@
 ---
 
 ## 🔹 Exercício 1 - Boas-vindas
-**Descrição:** Crie um programa que solicite ao usuário os seguintes dados: nome, idade , altura, gênero e estudante.
+**Descrição:** Crie um programa que solicite ao usuário os seguintes dados: nome, idade , altura e gênero.
 
 **Exemplo de:**
 - Entrada:
@@ -12,7 +12,6 @@
     Qual é sua idade ? 25
     Qual a sua altura ? 1.67
     Qual o seu gênero ? F
-    É estudante ? verdadeiro
     ```
 
 - Saída:
@@ -23,7 +22,6 @@
     Idade: 25
     Altura: 1.67
     Gênero: F
-    Estudante: verdadeiro
     ```
 
 ---
@@ -131,5 +129,6 @@ Caso o usuário cancele, exiba a mensagem: `"Você saiu do programa."`
     ```yaml
     João, seu IMC é 26.12
     ```
+
 
 ---
