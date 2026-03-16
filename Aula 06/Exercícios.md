@@ -40,7 +40,7 @@
 
 ---
 
-### 🔹 Exercício 2: Verifica Acesso
+### 🔹 Exercício 3: Verifica Acesso
 
 **Descrição:** Crie um programa que leia uma senha numérica. Se a senha for **1234**, o programa deve mostrar ``“Acesso permitido”``. Caso contrário, deve mostrar ``“Acesso negado”``.
 
